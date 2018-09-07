@@ -80,5 +80,5 @@ theme: cactus
 deploy:
   type: git
   repo: git@github.com:SakamotoMari/sakamotomari.github.io.git
-  branch: hexo
+  branch: master
   message: 
