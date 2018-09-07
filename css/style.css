@@ -431,7 +431,7 @@
 }
 @font-face {
   font-style: normal;
-  font-family: "Meslo LG";
+  font-family: "Meslo LG", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
   src: local("Meslo LG S"), url("../lib/meslo-LG/MesloLGS-Regular.ttf") format("truetype");
 }
 *,
