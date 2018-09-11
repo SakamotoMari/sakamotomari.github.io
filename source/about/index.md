@@ -2,3 +2,8 @@
 title: about
 date: 2018-09-04 15:55:26
 ---
+A current M.S. student majoring Human-computer Interaction.  
+
+Omnivorous creature.  
+
+Interests: Stories, Music, UI/UX design. 
