@@ -18,7 +18,7 @@ menu:
 
 # Profile
 profile:
-  avatar: favicon-192x192.png
+  avatar: RK_Logo_sqaure.png
   # Email address will be used for showing gravatar(https://en.gravatar.com) avatar if `avatar` is not specified.
   email: ruiqikong@gmail.com
   bio: Omnivorous creature.
@@ -36,7 +36,7 @@ sns:
 footer:
   # If not defined, will show current year and author, eg: ©2018 • Superman.
   copyright:
-
+  
   # Set to false to hide Hexo link.
   powered: true
   # Set to false to hide theme info.
