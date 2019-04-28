@@ -16,7 +16,7 @@ Well, I have to admit it is partly my fault, as I was the leader of our team -- 
 
 In this post, I will try to explain what we did, how we did and why the result is not satisfying.
 
-#What we did
+# What we did
 Before I call back what I did, the requirements for this task have to be clarified. We need to make a 'digital story' using digital photos or sketches and sound, which should be less than 2 minutes. The digital story should explain What Human-computer Interaction is to the teenagers aged between 13 and 16. 
 
 What we presented is a video about FIFA, a popular football game. Through a comparison between the early versions and the latest version, we explained how HCI functions to improve gaming experience. We expressed from three perspectives: movement of players; engaging environment; operations in different platforms. Yes, covering all of these in 2 minutes.
@@ -24,7 +24,7 @@ What we presented is a video about FIFA, a popular football game. Through a comp
 You may burst into laugh -- it seems we had ignored all the requirements of this task. First of all, it is not a 'story'; Secondly, it appears too serious to communicate with teenagers; Finally, the video must be very 'crowded' with so much stuff.
 
 I also wonder it is *when* that everything went in a wrong direction. Let me analyse it in next part.
-#How we did
+# How we did
 I don't know why I became the leader of this team. It is composed by 5 Chinese and 1 English (maybe?). Two of the members are my classmates during the pre-sessional course, who know me to some extend. I don't think I had shown any quality related to leadership during the course, but anyway I said 'OK' when my friend recommended me to be our leader. 
 
 I do not like being a leader, because, obviously, it means a lot of responsibility, and I am afraid of it. Since I had responded to be a leader, I must take my responsibility. Identify the goal, make a plan, assign to all the members, keep everything on track. Yes, you can do it, just have a go!
@@ -41,7 +41,7 @@ In the group chat, I explained my confusion, and waited for their response. They
 
 We searched the history of FIFA, found the hugest changes in these decades, generalised the changes into several categories, and organised the content of our digital story. To be frank, it is not a story, it is more like a presentation. Worst of all, I could say none of us had fun in this process.
 
-#Why it failed
+# Why it failed
 Now let me think about why our video became a failure.
 
 It is a failure because we did not have fun -- this sentence is true in two levels. As the goal of this task is to bring students fun, it is obvious that we failed, since we did not enjoy the process. At the same time, *how could we success if we do not have interest in what we are doing*?
