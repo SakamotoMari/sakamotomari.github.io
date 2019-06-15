@@ -16,7 +16,6 @@
 <% if (config.feed && config.feed.path) { -%>
 <link rel="alternate" type="application/atom+xml" title="<%= config.title %>" href="<%= url_for(config.feed.path) %>">
 <% } -%>
-<% if (theme.appearance.font && theme.appearance.font.url) { -%><%- css(theme.appearance.font.url) -%><% } %>
 <%- theme_static('css') %>
 <% if (theme.runtime.themeHash) { %><%- css('theme.' + theme.runtime.themeHash) %><% } %>
 <%- js('config.' + theme.runtime.configHash) %>
@@ -25,7 +24,7 @@
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 </head>
-<body lang="<%= config.language || 'en' %>">
+<body>
 <is-d2a57d></is-d2a57d>
 <%- theme_static('js') -%>
 </body>

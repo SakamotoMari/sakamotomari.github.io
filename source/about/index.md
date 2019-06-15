@@ -21,7 +21,7 @@ A positive pessimist who may believe in Absurdism.
 
 ## My interests
  - Recently interested in Data Visualisation/Accessibility
- - User Experience Design (see my <a href="/resources/Resume_Rq_K.pdf">resume</a> and <a href="/resources/UX_Portfolio_Ruiqi_Kong.pdf">portfolio</a> here)
+ - User Experience Design (see my <a href="/resources/Resume_Rq_K.pdf">resume</a> and <a href="/resources/Portfolio_Rq_K.pdf">portfolio</a> here)
  - Stories (including animations, films, novels, comics)
  - Taking photos, basically focusing on non-humans
  - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA)
