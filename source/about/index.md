@@ -17,11 +17,11 @@ A positive pessimist who may believe in Absurdism.
 - Pushing myself to keep learning
 - Pushing myself to reflect and record
 - Practising English writing (sometimes use Chinese though)
-- For the moment it is **not for you**, but I will feel happy if you could acquire something from my poor writings
+- For the moment it may be not targeted at you, but I will feel happy if you could acquire something from my poor writings
 
 ## My interests
  - Recently interested in Data Visualisation/Accessibility
- - User Experience Design
+ - User Experience Design (see my <a href="/resources/Resume_Rq_K.pdf">resume</a> and <a href="/resources/UX_Portfolio_Ruiqi_Kong.pdf">portfolio</a> here)
  - Stories (including animations, films, novels, comics)
  - Taking photos, basically focusing on non-humans
  - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA)

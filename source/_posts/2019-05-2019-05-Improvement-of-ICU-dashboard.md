@@ -12,13 +12,21 @@ date: 2019-05-28 23:08:49
 
 # Project overview
 
-
+Type:		Prototype refinement
+Time:		4 weeks, 2019 Spring
+Property:		Group Project for the course Human Factors for Digital Health
+Tools:		Realtime board
+Skills:		Interview, Qualitative data analysis
+My Role:		User researcher and User Experience Designer
+My Team:		Hollie Bostock, Ziyi Chen, Alastair Cook, Gemela Forman, Ruiqi Kong
 
 # Project background
 
+This is a project collaborated with University College London Hospital. The Intensive Care Unit (ICU) was going to use a new dashboard so that staff could access information easily, in order to improve the overall performance of ICU. Our group was assigned to refine the prototype of the dashboard from the perspective of clinical targets.
 
+# My proposal
 
-# Our proposal
+I proposed to combine information in Metrics widgets into the floor plan so that staff could make sense of the metrics in a more intuitive way. Icons with colours and initials are used to make different metrics more identifiable.
 
 # Understanding the problems and the users
 

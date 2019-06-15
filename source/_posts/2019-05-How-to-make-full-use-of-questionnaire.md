@@ -52,7 +52,7 @@ If your research goal is very clear, this step would be easy. Against the hypoth
 
 # Ending
 
-Questionnaire is a useful research method in many contexts, and it could bring valuable insights if we design a good questionnaire and analyse the results according to our research objective. For concrete examples of designing a questionnaire, here are one recommendation: [The Ultimate UX Survey Design Guide](https://medium.com/@allisoncrady/designing-iterating-analyzing-user-surveys-for-product-impact-5771fc1cdd7a).
+Questionnaire is a useful research method in many contexts, and it could bring valuable insights if we design a good questionnaire and analyse the results according to our research objective. For concrete examples of designing a questionnaire, here is one recommendation: [The Ultimate UX Survey Design Guide](https://medium.com/@allisoncrady/designing-iterating-analyzing-user-surveys-for-product-impact-5771fc1cdd7a).
 
 # References
 
