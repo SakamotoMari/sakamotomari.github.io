@@ -2,7 +2,7 @@
 title: About
 date: 2018-09-04 15:55:26
 ---
-A current M.S. student majoring in Human-computer Interaction.  
+A UX Designer who attempts to know herself and know the world.  
 
 **An Omnivorous creature**.  
 
@@ -16,17 +16,18 @@ A positive pessimist who may believe in Absurdism.
 ## What this blog is for
 - Pushing myself to keep learning
 - Pushing myself to reflect and record
-- Practising English writing (sometimes use Chinese though)
+- Practising writing (both in English and in Chinese)
 - For the moment it may be not targeted at you, but I will feel happy if you could acquire something from my poor writings
 
 ## My interests
  - Recently interested in Data Visualisation/Accessibility
- - User Experience Design (see my <a href="/resources/Resume_Rq_K.pdf">resume</a> and <a href="/resources/Portfolio_Rq_K.pdf">portfolio</a> here)
+ - User Experience Design (see my <a href="/resources/UX_Resume_Ruiqi_Kong_2019.pdf">resume</a> and <a href="/resources/UX_Portfolio_Ruiqi_Kong_2019.pdf">portfolio</a> here 附 <a href="/resources/UX_Portfolio_Ruiqi_Kong_2019Autumn_refined.pdf">中文版作品集</a>)
  - Stories (including animations, films, novels, comics)
- - Taking photos, basically focusing on non-humans
- - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA)
- - Doodling
+ - Taking photos, basically focusing on non-humans (see [my Unsplash page](https://unsplash.com/@sakamotomari))
+ - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA and Yui Makino)
+ - Doodling (ほぼ日手帳 Weeks✕Maaya使用中)
+ - Kendo, freshman of 2 kyu, recently off :-(
 
 ## Educational background
- - Sep. 2018 - Sep. 2019, M.Sc.  in Human-computer Interaction at University College London, UK (expected)
- - Sep. 2014 - Jun. 2018, B.Eng.  in Digital Media Technology at Hunan University, China
+ - Sep. 2018 - Sep. 2019, M.Sc.  in Human-computer Interaction at University College London, UK (Dissertation: User Performance and Experience in Camera-Based Scanning, supervisor: [Enrico Costanza](https://uclic.ucl.ac.uk/people/enrico-costanza))
+ - Sep. 2014 - Jun. 2018, B.Eng.  in Digital Media Technology at Hunan University, China (Dissertation: Automatic Correction of Human Skeleton Sketches, supervisor: [Yi Xiao](http://csee.hnu.edu.cn/people/xiaoyi))

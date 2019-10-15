@@ -35,7 +35,7 @@ appearance:
     # Sidebar author name, fallback to `base`
     logo:
     # Sidebar menu font, fallback to `base`
-    menu: Montserrat
+    menu: Josefin Sans
     # Percentage on the fab button, month text on archives page, count, pager, toc index and category pill,
     # fallback to `base`
     label: Montserrat
@@ -74,7 +74,7 @@ sns:
   instagram: https://www.instagram.com/ruiqi.kong
   tumblr:
   dribbble:
-  telegram:
+  telegram: https://t.me/sakamotomari
   youtube:
   hangouts:
   linkedin: https://www.linkedin.com/in/ruiqikong
