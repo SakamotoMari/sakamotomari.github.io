@@ -7,7 +7,6 @@ tags:
 category:
   - Random Thoughts
 date: 2019-09-12 14:03:07
-categories:
 ---
 
 
