@@ -11,21 +11,22 @@ A positive pessimist who may believe in Absurdism.
 ## What this blog contains
 - Reflection on personal experience
 - Notes of UX related content (e.g. conferences, books, courses)
-- Tutorials of some software
+- Notes of other interesting topics
 
 ## What this blog is for
 - Pushing myself to keep learning
 - Pushing myself to reflect and record
 - Practising writing (both in English and in Chinese)
-- For the moment it may be not targeted at you, but I will feel happy if you could acquire something from my poor writings
+- For the moment it may be not targeted at you, but I will feel happy if you could acquire anything from my writings
 
 ## My interests
  - Recently interested in Data Visualisation/Accessibility
- - User Experience Design (see my <a href="/resources/UX_Resume_Ruiqi_Kong_2019.pdf">resume</a> and <a href="/resources/UX_Portfolio_Ruiqi_Kong_2019.pdf">portfolio</a> here 附 <a href="/resources/UX_Portfolio_Ruiqi_Kong_2019Autumn_refined.pdf">中文版作品集</a>)
+ - User Experience Design (currently working as an Interaction Designer in the field of Securities)
  - Stories (including animations, films, novels, comics)
  - Taking photos, basically focusing on non-humans (see [my Unsplash page](https://unsplash.com/@sakamotomari))
  - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA and Yui Makino)
  - Doodling (ほぼ日手帳 Weeks✕Maaya使用中)
+ - Podcast programmes: [得意忘形](https://podcasts.apple.com/cn/podcast/%E5%BE%97%E6%84%8F%E5%BF%98%E5%BD%A2%E6%92%AD%E5%AE%A2/id1200767928), [Blow Your Mind](https://podcasts.apple.com/cn/podcast/blow-your-mind/id731738426) and [翻转电台]([https://podcasts.apple.com/cn/podcast/%E7%BF%BB%E8%BD%AC%E7%94%B5%E5%8F%B0flipradio/id1119089237](https://podcasts.apple.com/cn/podcast/翻转电台flipradio/id1119089237))
  - Kendo, freshman of 2 kyu, recently off :-(
 
 ## Educational background
