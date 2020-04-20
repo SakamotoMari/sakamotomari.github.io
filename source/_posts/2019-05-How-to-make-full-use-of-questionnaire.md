@@ -18,7 +18,7 @@ After data collection, we need to identify important themes merged in these qual
 
 ## What is the research objective
 
-The questionnaire is applied for an objective, and the clearer the objective is, the more desirable results you might achieve. The research objective might revolve during the design process of the questionnaire, from a general research question such as “Who is our target user” to more concretes ones such as “What are the behavioural  differences between user group A and B”. The design of questionnaire is centred around the research objectives.
+The questionnaire is applied for an objective, and the clearer the objective is, the more desirable results you might achieve. The research objective might evolve during the design process of the questionnaire, from a general research question such as “Who is our target user” to more concretes ones such as “What are the behavioural  differences between user group A and B”. The design of questionnaire is centred around the research objectives.
 
 ## Design questions
 

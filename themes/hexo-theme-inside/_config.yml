@@ -47,7 +47,7 @@ appearance:
 # Sidebar profile
 profile:
   # `email` will fallback to `hexo.config.email` if not specified
-  email: ruiqikong@gmail.com
+  email: r.kong@foxmail.com
 
   # Avatar URL, email address will be used for gravatar(https://en.gravatar.com) avatar if not specified.
   avatar: 'RK_Logo_sqaure.png'
@@ -65,19 +65,19 @@ menu:
 # Try to sort by changing the order of the keys
 sns:
   # `email` will fallback to `profile.email` if not specified
-  email: ruiqikong@gmail.com
+  email: r.kong@foxmail.com
   # `feed` will fallback to `hexo.config.feed.path` if not specified
   feed:
   github:
   twitter: https://twitter.com/RuiqiK
-  facebook: https://www.facebook.com/ruiqi.kong.33
+  facebook: 
   instagram: https://www.instagram.com/ruiqi.kong
   tumblr:
-  dribbble:
+  dribbble: https://dribbble.com/sakamotomari
   telegram: https://t.me/sakamotomari
   youtube:
   hangouts:
-  linkedin: https://www.linkedin.com/in/ruiqikong
+  linkedin: 
   pinterest:
   soundcloud:
   myspace:
