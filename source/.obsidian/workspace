@@ -6,11 +6,10 @@
       {
         "id": "6e0de8e38858778b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-03-周日晚的忧郁与悬浮时代.md",
+            "file": "_drafts/唯一的道路是自我教育.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-周日晚的忧郁与悬浮时代.md",
+                "file": "_drafts/唯一的道路是自我教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,14 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "6e0de8e38858778b",
   "lastOpenFiles": [
+    "_drafts/唯一的道路是自我教育.md",
+    "_drafts/忍一忍与不要忍.md",
+    "_drafts/在巴别塔的废墟中寻求理解之道.md",
+    "_posts/2021-04-关于原创性的随想.md",
+    "_drafts/2018-11-无法变成腌黄瓜的我们.md",
     "_posts/2020-03-周日晚的忧郁与悬浮时代.md",
     "_posts/2019-03-March-leaves-like-a-lion.md",
-    "_drafts/唯一的道路是自我教育.md",
-    "_drafts/在巴别塔的废墟中寻求理解之道.md",
     "_posts/2020-01-做某事的力量.md",
     "_posts/2019-11-如何撰写一篇合格的英文学术文章.md",
-    "_posts/2019-04-How-do-visually-impaired-people-access-museums.md",
-    "_posts/2019-02-Trying-Micro-phenomenology.md"
+    "_posts/2019-04-How-do-visually-impaired-people-access-museums.md"
   ]
 }
