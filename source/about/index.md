@@ -27,7 +27,7 @@ A positive pessimist who may believe in Absurdism.
  - Music (specially, love Maaya Sakamoto, Yoko Kanno, Yuki Kajiura, KOKIA and Yui Makino)
  - Doodling (ほぼ日手帳 Weeks✕Maaya使用中)
  - Podcast programmes: [得意忘形](https://podcasts.apple.com/cn/podcast/%E5%BE%97%E6%84%8F%E5%BF%98%E5%BD%A2%E6%92%AD%E5%AE%A2/id1200767928), [Blow Your Mind](https://podcasts.apple.com/cn/podcast/blow-your-mind/id731738426) and [翻转电台](https://podcasts.apple.com/cn/podcast/%E7%BF%BB%E8%BD%AC%E7%94%B5%E5%8F%B0flipradio/id1119089237)
- - Kendo, freshman of 1 Kyu. Working for 1 Dan!
+ - Kendo, 1 Dan
 
 ## Educational background
  - Sep. 2018 - Sep. 2019, M.Sc.  in Human-computer Interaction at University College London, UK (Dissertation: User Performance and Experience in Camera-Based Scanning, supervisor: [Enrico Costanza](https://uclic.ucl.ac.uk/people/enrico-costanza))
