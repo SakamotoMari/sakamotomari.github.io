@@ -6,17 +6,15 @@ A UX Designer who attempts to know herself and know the world.
 
 **An Omnivorous creature**.  
 
-A positive pessimist who may believe in Absurdism.
-
 ## What this blog contains
 - Reflection on personal experience
+- Essays on topics of personal interests (e.g. good life)
 - Notes of UX related content (e.g. conferences, books, courses)
-- Notes of other interesting topics
 
 ## What this blog is for
 - Pushing myself to keep learning
 - Pushing myself to reflect and record
-- Practising writing (both in English and in Chinese)
+- Practising writing (mainly in Chinese)
 - For the moment it may be not targeted at you, but I will feel happy if you could acquire anything from my writings
 
 ## My interests
