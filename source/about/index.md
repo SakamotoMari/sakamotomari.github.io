@@ -18,7 +18,7 @@ A UX Designer who attempts to know herself and know the world.
 - For the moment it may be not targeted at you, but I will feel happy if you could acquire anything from my writings
 
 ## My interests
- - Recently interested in Anthropology
+ - What is a Good Life?
  - User Experience Design (currently working as a UX Designer in the field of Securities)
  - Stories (including animations, films, novels, comics)
  - Taking photos, basically focusing on non-humans (see [my Unsplash page](https://unsplash.com/@sakamotomari))
@@ -29,4 +29,4 @@ A UX Designer who attempts to know herself and know the world.
 
 ## Educational background
  - Sep. 2018 - Sep. 2019, M.Sc.  in Human-computer Interaction at University College London, UK (Dissertation: User Performance and Experience in Camera-Based Scanning, supervisor: [Enrico Costanza](https://uclic.ucl.ac.uk/people/enrico-costanza))
- - Sep. 2014 - Jun. 2018, B.Eng.  in Digital Media Technology at Hunan University, China (Dissertation: Automatic Correction of Human Skeleton Sketches, supervisor: [Yi Xiao](http://csee.hnu.edu.cn/people/xiaoyi))
+ - Sep. 2014 - Jun. 2018, B.Eng.  in Digital Media Technology at Hunan University, China (Dissertation: Automatic Correction of Human Skeleton Sketches, supervisor: Yi Xiao
