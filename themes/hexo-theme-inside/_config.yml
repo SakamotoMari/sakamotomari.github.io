@@ -73,8 +73,8 @@ sns:
   facebook: 
   instagram: https://www.instagram.com/ruiqi.kong
   tumblr:
-  dribbble: https://dribbble.com/sakamotomari
-  telegram: https://t.me/sakamotomari
+  dribbble: 
+  telegram: 
   youtube:
   hangouts:
   linkedin: 
@@ -82,7 +82,7 @@ sns:
   soundcloud:
   myspace:
   weibo:
-  qq:
+  qq: 244527388
 
 # Sidebar footer
 footer:
